@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [toxic comment classifier](https://github.com/emailherds/Comment-Classifier)
 
-- 🌱 I’m currently learning **Machine Learning Principles**
+- 🌱 I’m currently learning **machine learning principles**
 
 - 💬 Ask me about **my experience as a developer**
 
 - 📫 How to reach me **clkrdesign@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bIzCGsIm-SyUJf3vQuljnyvNZY0kB9fs/view?usp=sharing)
+- 📄 Learn about my experiences: [resume](https://drive.google.com/file/d/1bIzCGsIm-SyUJf3vQuljnyvNZY0kB9fs/view?usp=sharing)
 
-- ⚡ Fun fact **I like to draw and play the viola**
+- ⚡ Fun fact **some hobbies I have include drawing and playing the viola**
 
 
 <h3 align="left">Connect with me:</h3>
