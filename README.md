@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning Principles**
 
-- 👯 I’m looking to collaborate on 
-
-- 👨‍💻 All of my projects are below, or available at 
-
 - 💬 Ask me about **my experience as a developer**
 
 - 📫 How to reach me **clkrdesign@gmail.com**
