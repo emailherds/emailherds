@@ -21,8 +21,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emailherds&show_icons=true&locale=en" alt="emailherds" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emailherds&" alt="emailherds" /></p>
