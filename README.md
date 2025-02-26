@@ -13,7 +13,7 @@
 
 - 📄 Learn about my experiences: [my resume](https://drive.google.com/file/d/1bIzCGsIm-SyUJf3vQuljnyvNZY0kB9fs/view?usp=sharing)
 
-- ⚡ Fun fact **some hobbies I have include drawing and playing the viola**
+- ⚡ Fun fact: **some hobbies I have include drawing and playing the viola**
 
 
 <h3 align="left">Connect with me:</h3>
