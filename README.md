@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emailherds&label=Profile%20views&color=0e75b6&style=flat" alt="emailherds" /> </p>
 
-- 🔭 I’m currently working on [toxic comment classifier](https://github.com/emailherds/Comment-Classifier)
+- 🔭 I’m currently working on [toxic comment classifier](https://github.com/emailherds/Youtube-Comment-Classifier-App)
 
 - 🌱 I’m currently learning **machine learning principles**
 
