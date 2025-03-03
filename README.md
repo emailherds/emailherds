@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **clkrdesign@gmail.com**
 
-- 📄 Learn about my experiences: [my resume](https://drive.google.com/file/d/1bIzCGsIm-SyUJf3vQuljnyvNZY0kB9fs/view?usp=sharing)
+- 📄 Learn about my experiences: [my resume](https://drive.google.com/file/d/1sP6D5odRzmTVUI_VNSORKT8mhtBftD3c/view?usp=sharing)
 
 - ⚡ Fun fact: **some hobbies I have include drawing and playing the viola**
 
